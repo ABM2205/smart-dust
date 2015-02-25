@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1424895581 source:z:\school\spring 2015\cs 361\anthony_mccann_smart_dust\flechette_sim.cpp
+	<iostream>
+	<random>
+	"linked_list.h"
+	"configuration.h"
+	"dust_distribution.h"
+
+1424822553 z:\school\spring 2015\cs 361\anthony_mccann_smart_dust\linked_list.h
+
+1424821906 source:z:\school\spring 2015\cs 361\anthony_mccann_smart_dust\linked_list.cpp
+	<iostream>
+	"linked_list.h"
+
+1424827412 source:z:\school\spring 2015\cs 361\anthony_mccann_smart_dust\configuration.cpp
+	"configuration.h"
+	<iostream>
+	<fstream>
+	<limits>
+
+1424827121 z:\school\spring 2015\cs 361\anthony_mccann_smart_dust\configuration.h
+
+1424896533 source:z:\school\spring 2015\cs 361\anthony_mccann_smart_dust\dust_distribution.cpp
+	"dust_distribution.h"
+	<random>
+	<iostream>
+
+1424895629 z:\school\spring 2015\cs 361\anthony_mccann_smart_dust\dust_distribution.h
+
